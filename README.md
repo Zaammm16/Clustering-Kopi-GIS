@@ -34,7 +34,7 @@ Sistem ini bertujuan untuk memetakan dan mengelompokkan wilayah berdasarkan pote
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/Zaammm16/Cluster.git](https://github.com/Zaammm16/Cluster.git)
+    git clone [https://github.com/Zaammm16/Clustering-Kopi-GIS.git](https://github.com/Zaammm16/Clustering-Kopi-GIS.git)
     ```
 2.  **Import Database:**
     * Buat database baru di phpMyAdmin bernama `db_clustering`.
