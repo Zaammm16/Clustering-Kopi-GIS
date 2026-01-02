@@ -19,10 +19,10 @@ Sistem ini bertujuan untuk memetakan dan mengelompokkan wilayah berdasarkan pote
 * **Laporan:** Ekspor hasil clustering.
 
 ## 🛠️ Teknologi yang Digunakan
-* **Bahasa Pemrograman:** (PHP Native / Laravel / Python Flask) - *Sesuaikan dengan isi kodinganmu*
+* **Bahasa Pemrograman:** (Python Streamlit )
 * **Database:** MySQL
-* **Frontend:** HTML, CSS, Bootstrap
-* **Peta:** Leaflet.js / Mapbox / Google Maps API
+* **Frontend:** HTML
+* **Peta:** Leaflet.js
 
 ## 📂 Struktur Folder
 * `/assets` - File CSS, JS, dan gambar.
